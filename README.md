@@ -13,3 +13,18 @@ Digital twin development for the feed drive and spindle was a key project. I wor
 
 In labview i have developed the OPCUA server program and Temperature , vibration client program to push the data.
 Here are the images of the programs.
+OPCUA SERVER:
+![Screenshot 2024-10-01 161419](https://github.com/user-attachments/assets/8d7d3b0b-5da8-4649-8f67-2e12f41f6ae8)
+
+![Screenshot 2024-10-01 164321](https://github.com/user-attachments/assets/df2d4724-3f41-4bcd-ab95-bdc42a98273c)
+
+Temperature:
+![Screenshot 2024-10-01 163519](https://github.com/user-attachments/assets/d07d61e2-e8e9-4923-a601-f44bef8ca096)
+
+![Screenshot 2024-10-01 164404](https://github.com/user-attachments/assets/85e8d979-25c9-45d8-86c9-045ade5ebe0c)
+
+Vibration:
+![Screenshot 2024-10-01 163741](https://github.com/user-attachments/assets/5a1cd8fb-8fc4-4a16-bdbf-48937c4eae22)
+
+![Screenshot 2024-10-01 164421](https://github.com/user-attachments/assets/baed3b70-c9f1-44db-9470-3b0e04d4d569)
+
