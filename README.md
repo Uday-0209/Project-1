@@ -33,6 +33,7 @@ Dashboard1 :
 ![dashboard](https://github.com/user-attachments/assets/36aa81c6-4c04-44b7-8ec8-96bddcceffb2)
 
 Dashboard2:
+
 ![dashboard2](https://github.com/user-attachments/assets/37d3b8a8-4f31-47d5-99a2-0e52a2389a4d)
 
 All the data being displayed is pushed by Python to Node-RED. The machine status is determined by an ML model running in the background, while the vibration and temperature data are sent from the LabVIEW OPC UA server to Node-RED.
