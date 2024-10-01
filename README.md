@@ -10,3 +10,6 @@ Digital twin development for the feed drive and spindle was a key project. I wor
 ![SS DGWIN](https://github.com/user-attachments/assets/b1769834-c517-4cca-8930-18e8f9756a05)
 
 ![SS DIGITAL TWIN](https://github.com/user-attachments/assets/490480b5-58b6-458e-af4e-5430626a361c)
+
+In labview i have developed the OPCUA server program and Temperature , vibration client program to push the data.
+Here are the images of the programs.
