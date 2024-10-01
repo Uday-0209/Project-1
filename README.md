@@ -28,3 +28,9 @@ Vibration:
 
 ![Screenshot 2024-10-01 164421](https://github.com/user-attachments/assets/baed3b70-c9f1-44db-9470-3b0e04d4d569)
 
+Dashboard1 :
+
+![dashboard](https://github.com/user-attachments/assets/36aa81c6-4c04-44b7-8ec8-96bddcceffb2)
+
+Dashboard2:
+![dashboard2](https://github.com/user-attachments/assets/37d3b8a8-4f31-47d5-99a2-0e52a2389a4d)
