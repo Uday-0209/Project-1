@@ -11,6 +11,13 @@ Digital twin development for the feed drive and spindle was a key project. I wor
 
 ![SS DIGITAL TWIN](https://github.com/user-attachments/assets/490480b5-58b6-458e-af4e-5430626a361c)
 
+Following are the work carried out in this project:
+1) External sensors like IEPE vibration and RTD temperature data acquisition using Ni daq.
+2) Development of the labview program to acquire data.
+3) Development of labview program to verify the state space models.
+4) Development of AI Ml model to predict the defected coupling and ballscrew.
+5) Developemnt of ML model to predict the Condition of the vibration and machine.
+
 In labview i have developed the OPCUA server program and Temperature , vibration client program to push the data.
 Here are the images of the programs.
 OPCUA SERVER:
